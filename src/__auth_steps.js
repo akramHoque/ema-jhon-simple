@@ -10,4 +10,15 @@
 8.useCreateUserWithEmailAndPassword(auth) from react firebase hooks
 9. if user is created then go to shop page.
 10. useSignInWithEmailAndPassword(auth) for sign in.
+11. create RequireAuth compo => login korle jaite dibo na korle login page a niye jabo
+12. protected component banaici requireAuth diye.
+*/
+
+//
+/*
+1. npm install -g firebase-tools(for one time my computer).
+2. firebase login(one time for my computer).
+3.firebase init.(for each project)
+4. npm run build.
+5. firebase deploy.
 */
